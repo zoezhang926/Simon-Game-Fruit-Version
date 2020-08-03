@@ -1,0 +1,1 @@
+Classical Simon Game plus Fruit elements. Created by JS, jQuery and DOM
